@@ -1,0 +1,87 @@
+c:\users\acer\documents\visual studio 2015\Projects\CalculationOfCaloriSystem\CalculationOfCaloriSystem\bin\Debug\CalculationOfCaloriSystem.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\CalculationOfCaloriSystem\CalculationOfCaloriSystem\bin\Debug\CalculationOfCaloriSystem.exe
+c:\users\acer\documents\visual studio 2015\Projects\CalculationOfCaloriSystem\CalculationOfCaloriSystem\bin\Debug\CalculationOfCaloriSystem.pdb
+c:\users\acer\documents\visual studio 2015\Projects\CalculationOfCaloriSystem\CalculationOfCaloriSystem\obj\Debug\CalculationOfCaloriSystem.Login.resources
+c:\users\acer\documents\visual studio 2015\Projects\CalculationOfCaloriSystem\CalculationOfCaloriSystem\obj\Debug\CalculationOfCaloriSystem.Properties.Resources.resources
+c:\users\acer\documents\visual studio 2015\Projects\CalculationOfCaloriSystem\CalculationOfCaloriSystem\obj\Debug\CalculationOfCaloriSystem.csproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2015\Projects\CalculationOfCaloriSystem\CalculationOfCaloriSystem\obj\Debug\CalculationOfCaloriSystem.exe
+c:\users\acer\documents\visual studio 2015\Projects\CalculationOfCaloriSystem\CalculationOfCaloriSystem\obj\Debug\CalculationOfCaloriSystem.pdb
+C:\Users\Acer\documents\visual studio 2015\Projects\CalculationOfCaloriSystem\CalculationOfCaloriSystem\obj\Debug\CalculationOfCaloriSystem.MainPage.resources
+C:\Users\Acer\documents\visual studio 2015\Projects\CalculationOfCaloriSystem\CalculationOfCaloriSystem\obj\Debug\CalculationOfCaloriSystem.Register.resources
+C:\Users\Acer\documents\visual studio 2015\Projects\CalculationOfCaloriSystem\CalculationOfCaloriSystem\obj\Debug\CalculationOfCaloriSystem.Suggestion.resources
+C:\Users\Acer\documents\visual studio 2015\Projects\CalculationOfCaloriSystem\CalculationOfCaloriSystem\obj\Debug\CalculationOfCaloriSystem.GainCalori.resources
+C:\Users\Acer\documents\visual studio 2015\Projects\CalculationOfCaloriSystem\CalculationOfCaloriSystem\obj\Debug\CalculationOfCaloriSystem.LoseCalori.resources
+C:\Users\Acer\documents\visual studio 2015\Projects\CalculationOfCaloriSystem\CalculationOfCaloriSystem\obj\Debug\CalculationOfCaloriSystem.CaloriCalculator.resources
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\CalculationOfCaloriSystem\CalculationOfCaloriSystem\obj\Debug\CalculationOfCaloriSystem.Products.resources
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\CalculationOfCaloriSystem\CalculationOfCaloriSystem\bin\Debug\ExcelDataReader.dll
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\CalculationOfCaloriSystem\CalculationOfCaloriSystem\bin\Debug\ExcelDataReader.xml
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\CalculationOfCaloriSystem\CalculationOfCaloriSystem\obj\Debug\CalculationOfCaloriSystem.csprojResolveAssemblyReference.cache
+C:\Users\Emir Bey\Desktop\database\CalculationOfCaloriSystem\bin\Debug\CalculationOfCaloriSystem.exe.config
+C:\Users\Emir Bey\Desktop\database\CalculationOfCaloriSystem\bin\Debug\CalculationOfCaloriSystem.exe
+C:\Users\Emir Bey\Desktop\database\CalculationOfCaloriSystem\bin\Debug\CalculationOfCaloriSystem.pdb
+C:\Users\Emir Bey\Desktop\database\CalculationOfCaloriSystem\bin\Debug\ExcelDataReader.xml
+C:\Users\Emir Bey\Desktop\database\CalculationOfCaloriSystem\obj\Debug\CalculationOfCaloriSystem.csprojResolveAssemblyReference.cache
+C:\Users\Emir Bey\Desktop\database\CalculationOfCaloriSystem\obj\Debug\CalculationOfCaloriSystem.CaloriCalculator.resources
+C:\Users\Emir Bey\Desktop\database\CalculationOfCaloriSystem\obj\Debug\CalculationOfCaloriSystem.GainCalori.resources
+C:\Users\Emir Bey\Desktop\database\CalculationOfCaloriSystem\obj\Debug\CalculationOfCaloriSystem.Login.resources
+C:\Users\Emir Bey\Desktop\database\CalculationOfCaloriSystem\obj\Debug\CalculationOfCaloriSystem.LoseCalori.resources
+C:\Users\Emir Bey\Desktop\database\CalculationOfCaloriSystem\obj\Debug\CalculationOfCaloriSystem.MainPage.resources
+C:\Users\Emir Bey\Desktop\database\CalculationOfCaloriSystem\obj\Debug\CalculationOfCaloriSystem.Products.resources
+C:\Users\Emir Bey\Desktop\database\CalculationOfCaloriSystem\obj\Debug\CalculationOfCaloriSystem.Properties.Resources.resources
+C:\Users\Emir Bey\Desktop\database\CalculationOfCaloriSystem\obj\Debug\CalculationOfCaloriSystem.Register.resources
+C:\Users\Emir Bey\Desktop\database\CalculationOfCaloriSystem\obj\Debug\CalculationOfCaloriSystem.Suggestion.resources
+C:\Users\Emir Bey\Desktop\database\CalculationOfCaloriSystem\obj\Debug\CalculationOfCaloriSystem.csproj.GenerateResource.Cache
+C:\Users\Emir Bey\Desktop\database\CalculationOfCaloriSystem\obj\Debug\CalculationOfCaloriSystem.exe
+C:\Users\Emir Bey\Desktop\database\CalculationOfCaloriSystem\obj\Debug\CalculationOfCaloriSystem.pdb
+C:\Users\Acer\Desktop\CalculationOfCaloriSystem\bin\Debug\CalculationOfCaloriSystem.exe.config
+C:\Users\Acer\Desktop\CalculationOfCaloriSystem\obj\Debug\CalculationOfCaloriSystem.exe
+C:\Users\Acer\Desktop\CalculationOfCaloriSystem\obj\Debug\CalculationOfCaloriSystem.pdb
+C:\Users\Acer\Desktop\CalculationOfCaloriSystem\bin\Debug\CalculationOfCaloriSystem.exe
+C:\Users\Acer\Desktop\CalculationOfCaloriSystem\bin\Debug\CalculationOfCaloriSystem.pdb
+C:\Users\Acer\Desktop\CalculationOfCaloriSystem\bin\Debug\ExcelDataReader.xml
+C:\Users\Acer\Desktop\CalculationOfCaloriSystem\obj\Debug\CalculationOfCaloriSystem.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\CalculationOfCaloriSystem\obj\Debug\CalculationOfCaloriSystem.CaloriCalculator.resources
+C:\Users\Acer\Desktop\CalculationOfCaloriSystem\obj\Debug\CalculationOfCaloriSystem.GainCalori.resources
+C:\Users\Acer\Desktop\CalculationOfCaloriSystem\obj\Debug\CalculationOfCaloriSystem.Login.resources
+C:\Users\Acer\Desktop\CalculationOfCaloriSystem\obj\Debug\CalculationOfCaloriSystem.LoseCalori.resources
+C:\Users\Acer\Desktop\CalculationOfCaloriSystem\obj\Debug\CalculationOfCaloriSystem.MainPage.resources
+C:\Users\Acer\Desktop\CalculationOfCaloriSystem\obj\Debug\CalculationOfCaloriSystem.Products.resources
+C:\Users\Acer\Desktop\CalculationOfCaloriSystem\obj\Debug\CalculationOfCaloriSystem.Properties.Resources.resources
+C:\Users\Acer\Desktop\CalculationOfCaloriSystem\obj\Debug\CalculationOfCaloriSystem.Register.resources
+C:\Users\Acer\Desktop\CalculationOfCaloriSystem\obj\Debug\CalculationOfCaloriSystem.Suggestion.resources
+C:\Users\Acer\Desktop\CalculationOfCaloriSystem\obj\Debug\CalculationOfCaloriSystem.csproj.GenerateResource.Cache
+C:\Users\Emir Bey\Desktop\algoliritma analiz\CalculationOfCaloriSystem\bin\Debug\CalculationOfCaloriSystem.exe.config
+C:\Users\Emir Bey\Desktop\algoliritma analiz\CalculationOfCaloriSystem\bin\Debug\CalculationOfCaloriSystem.exe
+C:\Users\Emir Bey\Desktop\algoliritma analiz\CalculationOfCaloriSystem\bin\Debug\CalculationOfCaloriSystem.pdb
+C:\Users\Emir Bey\Desktop\algoliritma analiz\CalculationOfCaloriSystem\bin\Debug\ExcelDataReader.xml
+C:\Users\Emir Bey\Desktop\algoliritma analiz\CalculationOfCaloriSystem\obj\Debug\CalculationOfCaloriSystem.csprojResolveAssemblyReference.cache
+C:\Users\Emir Bey\Desktop\algoliritma analiz\CalculationOfCaloriSystem\obj\Debug\CalculationOfCaloriSystem.CaloriCalculator.resources
+C:\Users\Emir Bey\Desktop\algoliritma analiz\CalculationOfCaloriSystem\obj\Debug\CalculationOfCaloriSystem.GainCalori.resources
+C:\Users\Emir Bey\Desktop\algoliritma analiz\CalculationOfCaloriSystem\obj\Debug\CalculationOfCaloriSystem.Login.resources
+C:\Users\Emir Bey\Desktop\algoliritma analiz\CalculationOfCaloriSystem\obj\Debug\CalculationOfCaloriSystem.LoseCalori.resources
+C:\Users\Emir Bey\Desktop\algoliritma analiz\CalculationOfCaloriSystem\obj\Debug\CalculationOfCaloriSystem.MainPage.resources
+C:\Users\Emir Bey\Desktop\algoliritma analiz\CalculationOfCaloriSystem\obj\Debug\CalculationOfCaloriSystem.Products.resources
+C:\Users\Emir Bey\Desktop\algoliritma analiz\CalculationOfCaloriSystem\obj\Debug\CalculationOfCaloriSystem.Properties.Resources.resources
+C:\Users\Emir Bey\Desktop\algoliritma analiz\CalculationOfCaloriSystem\obj\Debug\CalculationOfCaloriSystem.Register.resources
+C:\Users\Emir Bey\Desktop\algoliritma analiz\CalculationOfCaloriSystem\obj\Debug\CalculationOfCaloriSystem.Suggestion.resources
+C:\Users\Emir Bey\Desktop\algoliritma analiz\CalculationOfCaloriSystem\obj\Debug\CalculationOfCaloriSystem.csproj.GenerateResource.Cache
+C:\Users\Emir Bey\Desktop\algoliritma analiz\CalculationOfCaloriSystem\obj\Debug\CalculationOfCaloriSystem.exe
+C:\Users\Emir Bey\Desktop\algoliritma analiz\CalculationOfCaloriSystem\obj\Debug\CalculationOfCaloriSystem.pdb
+C:\Users\Emir Bey\Desktop\algoliritma analiz\en son hali\CalculationOfCaloriSystem\bin\Debug\CalculationOfCaloriSystem.exe.config
+C:\Users\Emir Bey\Desktop\algoliritma analiz\en son hali\CalculationOfCaloriSystem\bin\Debug\CalculationOfCaloriSystem.exe
+C:\Users\Emir Bey\Desktop\algoliritma analiz\en son hali\CalculationOfCaloriSystem\bin\Debug\CalculationOfCaloriSystem.pdb
+C:\Users\Emir Bey\Desktop\algoliritma analiz\en son hali\CalculationOfCaloriSystem\bin\Debug\ExcelDataReader.xml
+C:\Users\Emir Bey\Desktop\algoliritma analiz\en son hali\CalculationOfCaloriSystem\obj\Debug\CalculationOfCaloriSystem.csprojResolveAssemblyReference.cache
+C:\Users\Emir Bey\Desktop\algoliritma analiz\en son hali\CalculationOfCaloriSystem\obj\Debug\CalculationOfCaloriSystem.CaloriCalculator.resources
+C:\Users\Emir Bey\Desktop\algoliritma analiz\en son hali\CalculationOfCaloriSystem\obj\Debug\CalculationOfCaloriSystem.Login.resources
+C:\Users\Emir Bey\Desktop\algoliritma analiz\en son hali\CalculationOfCaloriSystem\obj\Debug\CalculationOfCaloriSystem.LoseCalori.resources
+C:\Users\Emir Bey\Desktop\algoliritma analiz\en son hali\CalculationOfCaloriSystem\obj\Debug\CalculationOfCaloriSystem.MainPage.resources
+C:\Users\Emir Bey\Desktop\algoliritma analiz\en son hali\CalculationOfCaloriSystem\obj\Debug\CalculationOfCaloriSystem.Products.resources
+C:\Users\Emir Bey\Desktop\algoliritma analiz\en son hali\CalculationOfCaloriSystem\obj\Debug\CalculationOfCaloriSystem.Properties.Resources.resources
+C:\Users\Emir Bey\Desktop\algoliritma analiz\en son hali\CalculationOfCaloriSystem\obj\Debug\CalculationOfCaloriSystem.Register.resources
+C:\Users\Emir Bey\Desktop\algoliritma analiz\en son hali\CalculationOfCaloriSystem\obj\Debug\CalculationOfCaloriSystem.Suggestion.resources
+C:\Users\Emir Bey\Desktop\algoliritma analiz\en son hali\CalculationOfCaloriSystem\obj\Debug\CalculationOfCaloriSystem.csproj.GenerateResource.Cache
+C:\Users\Emir Bey\Desktop\algoliritma analiz\en son hali\CalculationOfCaloriSystem\obj\Debug\CalculationOfCaloriSystem.exe
+C:\Users\Emir Bey\Desktop\algoliritma analiz\en son hali\CalculationOfCaloriSystem\obj\Debug\CalculationOfCaloriSystem.pdb
+C:\Users\Emir Bey\Desktop\algoliritma analiz\en son hali\CalculationOfCaloriSystem\obj\Debug\CalculationOfCaloriSystem.KaloriAl.resources
+C:\Users\Emir Bey\Desktop\algoliritma analiz\en son hali\CalculationOfCaloriSystem\obj\Debug\CalculationOfCaloriSystem.Form1.resources
